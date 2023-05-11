@@ -1,0 +1,30 @@
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\bin\Debug\net7.0\Exercise02.exe
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\bin\Debug\net7.0\Exercise02.deps.json
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\bin\Debug\net7.0\Exercise02.runtimeconfig.json
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\bin\Debug\net7.0\Exercise02.dll
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\bin\Debug\net7.0\Exercise02.pdb
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\obj\Debug\net7.0\Exercise02.csproj.AssemblyReference.cache
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\obj\Debug\net7.0\Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\obj\Debug\net7.0\Exercise02.AssemblyInfoInputs.cache
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\obj\Debug\net7.0\Exercise02.AssemblyInfo.cs
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\obj\Debug\net7.0\Exercise02.csproj.CoreCompileInputs.cache
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\obj\Debug\net7.0\Exercise02.dll
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\obj\Debug\net7.0\refint\Exercise02.dll
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\obj\Debug\net7.0\Exercise02.pdb
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\obj\Debug\net7.0\Exercise02.genruntimeconfig.cache
+K:\Library\Rabin-intelligence-idea\Rabin-Pay\Interview\SampleTask\Exercise-02\Source\Exercise02\Exercise02\obj\Debug\net7.0\ref\Exercise02.dll
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\bin\Debug\net7.0\Exercise02.exe
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\bin\Debug\net7.0\Exercise02.deps.json
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\bin\Debug\net7.0\Exercise02.runtimeconfig.json
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\bin\Debug\net7.0\Exercise02.dll
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\bin\Debug\net7.0\Exercise02.pdb
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\obj\Debug\net7.0\Exercise02.csproj.AssemblyReference.cache
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\obj\Debug\net7.0\Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\obj\Debug\net7.0\Exercise02.AssemblyInfoInputs.cache
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\obj\Debug\net7.0\Exercise02.AssemblyInfo.cs
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\obj\Debug\net7.0\Exercise02.csproj.CoreCompileInputs.cache
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\obj\Debug\net7.0\Exercise02.dll
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\obj\Debug\net7.0\refint\Exercise02.dll
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\obj\Debug\net7.0\Exercise02.pdb
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\obj\Debug\net7.0\Exercise02.genruntimeconfig.cache
+G:\New folder (2)\Exercise02-todo\Exercise02-todo\Exercise02\obj\Debug\net7.0\ref\Exercise02.dll
